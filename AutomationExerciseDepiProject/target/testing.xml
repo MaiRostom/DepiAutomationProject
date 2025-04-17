@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="AutomationExerciseSuite">
+    <test name="ProductTests">
+        <classes>
+            <!-- Replace with your actual test class names (with full package names) -->
+            <class name="testCases.T01_HomePageTests"/>
+            <class name="testCases.T04_ProductTests"/>
+        </classes>
+    </test>
+</suite>
